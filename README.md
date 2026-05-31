@@ -1,10 +1,11 @@
-# 🤟 Sign Language Detection
+# Original NoteBook : https://www.kaggle.com/code/lngcbonguyn/sign-language-detection
+#  Sign Language Detection
 
 Real-time Vietnamese sign language recognition using **MediaPipe** skeleton keypoints and a **Transformer / BiLSTM** hybrid model, achieving **99.82% validation accuracy** across 10 gestures.
 
 ---
 
-## 📋 Overview
+##  Overview
 
 | | |
 |---|---|
@@ -18,7 +19,7 @@ Real-time Vietnamese sign language recognition using **MediaPipe** skeleton keyp
 
 ---
 
-## 🏗️ Model Architecture
+##  Model Architecture
 
 ```
 Input  (48, 134)
@@ -35,7 +36,7 @@ Two custom layers — `LearnedPositionalEmbedding` and `AttentionPooling` — ar
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Sign-Language-Detection/
@@ -52,7 +53,7 @@ Sign-Language-Detection/
 
 ---
 
-## 🚀 Quickstart
+##  Quickstart
 
 ```bash
 pip install -r requirements.txt
@@ -85,7 +86,7 @@ python predict_video.py --input my_video.mp4 --output result.mp4
 
 ---
 
-## 📊 Training Results
+##  Training Results
 
 | Metric | Train | Validation |
 |---|---|---|
