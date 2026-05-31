@@ -1,4 +1,5 @@
 # Original NoteBook : https://www.kaggle.com/code/lngcbonguyn/sign-language-detection
+# Output Video : https://drive.google.com/drive/u/1/folders/1UMOysvCZZ4Hy4bv9t_FirXff0G94EilI
 #  Sign Language Detection
 
 Real-time Vietnamese sign language recognition using **MediaPipe** skeleton keypoints and a **Transformer / BiLSTM** hybrid model, achieving **99.82% validation accuracy** across 10 gestures.
