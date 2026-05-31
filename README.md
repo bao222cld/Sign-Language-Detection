@@ -1,4 +1,4 @@
-# Original NoteBook : https://www.kaggle.com/code/lngcbonguyn/sign-language-detection
+# Original NoteBook and DataSet: https://www.kaggle.com/code/lngcbonguyn/sign-language-detection
 # Output Video : https://drive.google.com/drive/u/1/folders/1UMOysvCZZ4Hy4bv9t_FirXff0G94EilI
 #  Sign Language Detection
 
